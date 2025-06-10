@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "start": "vite preview --port $PORT"
+    "start": "npx vite preview --port $PORT"
   },
   "dependencies": {
     "three": "^0.177.0",
